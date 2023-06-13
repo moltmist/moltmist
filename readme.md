@@ -1,7 +1,5 @@
-[![MasterHead](https://giphy.com/gifs/cyberpunk-windows-1984-motnLx3NDhfoSfuWXF)]
-<h1 align="center">Hi 👋, I'm Raman.</h1>
+<h1 align="center">Hi! , I'm Raman.</h1>
 <h3 align="center">I am a student and a video editor and now exploring the world of code.</h3>
-
 
 <p align="left"> <a href="https://twitter.com/ramanv28" target="blank"><img src="https://img.shields.io/twitter/follow/ramanv28?logo=twitter&style=for-the-badge" alt="ramanv28" /></a> </p>
 
@@ -9,7 +7,7 @@
 
 - 📫 How to reach me **ramansingh3249@gmail.com**
 
-- ⚡ Random quote **It’s really cool to see effective and plain good male friendship. - Cyrille Dadie ( random webtoon reader )**
+- ⚡ Random quote **"It’s really cool to see effective and plain good male friendship. - Cyrille Dadie ( random webtoon reader )"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
